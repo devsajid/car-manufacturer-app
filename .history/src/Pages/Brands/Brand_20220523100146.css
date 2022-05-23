@@ -1,0 +1,23 @@
+.wrapper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.slider{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: white;
+    box-shadow: 0 10px 20px -10px rgba(0, 0, 0,0.2);
+}
+.slide{
+    height:100px;
+    display: flex;
+    align-items: center;
+}
+.slide img{
+    height: 70px;
+    p
+}
